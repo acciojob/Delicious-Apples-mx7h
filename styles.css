@@ -1,1 +1,272 @@
 /* your code here */
+*{
+	margin : 0;
+	padding : 0 ; 
+	box-sizing : border-box;
+	
+}
+html{
+	background-color : #10E37F ; 
+	font-family  : sans-serif
+}
+
+img{
+	width : 100px;
+}
+
+
+.product{
+	width : 600px;
+	height : 600px;
+	background-color : #FFFFFF;
+	margin : 20px auto;
+	display : flex;
+	
+}
+
+.product__photo{
+	
+}
+
+.photo-main > img {
+	width : 80%;
+	height : 60%;
+	position : absolute;
+	left : -17.5%;
+	
+
+}
+
+
+
+
+.controls{
+	padding : 5%;
+	display : flex;
+	justify-content : space-between;
+	
+}
+.controls i {
+	color : white;
+}	
+
+
+.photo-container{
+	width : 250px;
+	height : 475px ; 
+	margin : 50px 0;
+	position : relative;
+	right  :  25px;
+	background-color : #ACE62D;
+	box-shadow :  0  0 1px 1px lightgrey;
+	
+}
+.photo-main{
+	height : 80%;
+	
+}
+.photo-album{
+	height : 20%;
+	background-color : #FFFFFF;
+	
+	
+}
+
+.photo-album  > ul {
+	margin-left : 20%;
+	list-style : none;
+	display : flex;
+	justify-content : center;
+			
+}
+
+.photo-album ul li {
+	border : 0.5px solid lightgrey;
+	margin-left :  1% ;
+	margin-top : 10%;
+	
+	width : 20%;
+	height : auto;
+	
+}
+.photo-album ul li img{
+	width : 100%;
+	
+}
+
+
+.product__info{
+	width : 345px;
+	margin-left : 5px;
+	height : 90%;
+	margin-top : auto;
+}
+
+
+
+.title h1{
+	font-weight : 600;
+	color : #5A5A5A;
+}
+
+.price{
+	margin : 10% 0;
+	font-size : 2.8rem;
+	color : red;
+}
+
+
+.title span{
+	color : grey;
+	font-weight : lighter;
+	font-size : 0.9rem
+}
+
+	
+.variant h3 {
+	color : grey;
+	font-weight : lighter;
+	font-size : 0.9rem
+}	
+
+.variant > ul {
+	margin-left : 12.5%;
+	list-style : none;
+	display : flex;
+	
+	
+}
+.variant > ul li:first-child{
+	border : 1px  solid grey;
+}	
+.variant > ul > li {
+	
+	margin-left :  2% ;
+	margin-top : 10%;
+	margin-bottom : 10%;
+	width : 12.5%;
+	
+}
+.variant > ul > li img{
+	width : 100%;
+}
+.benefits ul{
+	margin : 10px 0;
+
+}
+.benefits li{
+		font-size : 0.90em;
+		margin-left : 60px;
+	}
+
+button{
+	font-family : inherit;
+	font-weight : bold;
+	display : block;
+	margin : 30px 0;
+	border : none;
+	background-color : #FE3F40;
+	color : white;
+	padding : 12.5px 25px;
+	border-radius : 5px;
+	box-shadow :  0  0 5px 1px grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
